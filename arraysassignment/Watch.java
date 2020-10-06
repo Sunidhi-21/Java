@@ -7,6 +7,7 @@ public class Watch {
 	String strap;
 	
 	void printDetails() {
+		
 		System.out.println("brannd: "+brand+"\n"+"digital/analog: "+digital+"\n"+"strap: "+strap);
 	}
 

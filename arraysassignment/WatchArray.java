@@ -3,7 +3,7 @@ package com.xworkz.arrays.arraysassignment;
 public class WatchArray {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Watch[] watchArray = new Watch[3];
 		
 		Watch titan = new Watch();

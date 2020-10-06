@@ -3,7 +3,7 @@ package com.xworkz.arrays.arraysassignment;
 public class InstantNoodlesArray {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		InstantNoodles[] noodleArray = new InstantNoodles[4];
 		
 		InstantNoodles maggi = new InstantNoodles();

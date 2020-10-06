@@ -7,6 +7,7 @@ public class InstantNoodles {
 	int price;
 	
 	void displayDetails() {
+		
 		System.out.println("brand: "+brand+"\n"+"flavour: "+flavour+"\n"+"price: "+price);
 	}
 }
