@@ -13,6 +13,7 @@ public class BooleanArray {
 		vals[3] = a;
 		vals[4] = a;
 		
+		
 		int length = vals.length;
 		System.out.println("length: "+length);
 		
