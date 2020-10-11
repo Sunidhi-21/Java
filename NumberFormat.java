@@ -1,4 +1,4 @@
-package com.xworkz.excepionhandling.assignment;
+package com.xworkz.exceptionhandling.assignment;
 
 public class NumberFormat {
 
