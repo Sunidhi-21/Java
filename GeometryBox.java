@@ -17,4 +17,5 @@ public class GeometryBox extends MetalBox implements Box {
 		System.out.println("Brand: " + brand + " | " + "Price: " + price);
 	}
 
+
 }
