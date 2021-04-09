@@ -28,7 +28,10 @@ public class Names {
 		System.out.println("Comparing s1 and s2 using ==: " + (s1 == s3));
 		System.out.println("Comparing s1 and s2 using compareTo: " + (s1.compareTo(s2)));
 		System.out.println("Comparing s1 and s3 using compareTo: " + (s1.compareTo(s3)));
-
+		
+		System.out.println(s1.substring(1,4));
+		
+		System.out.println(String.valueOf(2));
 	}
 
 }
